@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left">Hi 👋! My name is *Davide Bernasconi* and I'm a *Junior Web Developer*, from Milano</h2>
+<h2 align="left">Hi 👋! My name is Davide Bernasconi and I'm a Junior Web Developer, from Milano</h2>
 
 ###
 
